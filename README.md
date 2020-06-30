@@ -1,2 +1,2 @@
 # League_of_Legends_Logistic_Regression
-Application of Logistic Regression onto match data from professional player Rekkles in order to predict match result. 
+Project can be viewed here: [Logistic_Regression_Jupiter_Notebook](https://github.com/EdanMizrahi/League_of_Legends_Logistic_Regression/blob/master/Logistic_Regression_Read_Me.ipynb)
